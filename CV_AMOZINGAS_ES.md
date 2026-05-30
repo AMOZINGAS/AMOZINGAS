@@ -1,8 +1,3 @@
----
-title: Curriculum Vitae - Amos Olguin
-author: Amos Olguin
-date: Mayo 2026
----
 
 # AMOS OLGUIN
 **Desarrollador Full-Stack | Backend Engineer**
