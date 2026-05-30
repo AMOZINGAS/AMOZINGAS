@@ -7,7 +7,7 @@ date: Mayo 2026
 # AMOS OLGUIN
 **Desarrollador Full-Stack | Backend Engineer**
 
-📧 [tu.email@example.com] | 💼 [LinkedIn URL] | 🐙 GitHub: [github.com/AMOZINGAS](https://github.com/AMOZINGAS) | 📍 [Ciudad, País]
+amosheli2004.com | www.linkedin.com/in/amosolguín | https://github.com/AMOZINGAS | Ciudad Obregón, México
 
 ---
 
@@ -20,7 +20,7 @@ Ingeniero en Tecnologías de la Información con experiencia comprobada en desar
 ## EXPERIENCIA PROFESIONAL
 
 ### **Desarrollador Backend**
-**Media Aérea** | Periodo: [Mes/Año - Mes/Año]
+**Media Aérea** | Periodo: Enero/2026 - Junio/2026
 - Desarrollé y mantuve servicios backend en **Golang** siguiendo **Clean Architecture** y principios SOLID
 - Implementé APIs gRPC para comunicación eficiente entre microservicios
 - Diseñé y optimizé esquemas de base de datos en **PostgreSQL**, mejorando rendimiento de consultas en 40%
@@ -175,7 +175,7 @@ Juego de cartas con arquitectura orientada a objetos
 ## FORMACIÓN ACADÉMICA
 
 ### **Ingeniero en Tecnologías de la Información**
-**Instituto Tecnológico de Sonora (ITSON)** | Graduado: [Año]
+**Instituto Tecnológico de Sonora (ITSON)** | Graduado: 2026
 
 **Cursos y Materias Relevantes:**
 - Sistemas Distribuidos
@@ -187,14 +187,6 @@ Juego de cartas con arquitectura orientada a objetos
 - Estructuras de Datos
 - Algoritmos
 - Ingeniería de Software
-
----
-
-## CERTIFICACIONES & FORMACIÓN CONTINUA
-
-- [ ] Inserta aquí certificaciones relevantes
-- [ ] Cursos en línea completados
-- [ ] Trainings específicos
 
 ---
 
@@ -253,4 +245,4 @@ Contactos profesionales en:
 ---
 
 *CV generado: Mayo 2026*
-*Última actualización: [Fecha actual]*
+*Última actualización: mayo 2026*
