@@ -197,25 +197,25 @@ Juego de cartas con arquitectura orientada a objetos
 ## COMPETENCIAS ADICIONALES
 
 ### **Técnicas**
-✅ Full-Stack Development (Frontend & Backend)
-✅ Clean Architecture & SOLID Principles
-✅ Patrones de Diseño (Gang of Four)
-✅ Desarrollo de APIs REST y gRPC
-✅ Microservicios
-✅ Bases de Datos Relacionales
-✅ Programación Orientada a Objetos
-✅ Testing y QA
-✅ Debugging y Problem Solving
-✅ IoT y Sistemas Embebidos
+- Full-Stack Development (Frontend & Backend)
+- Clean Architecture & SOLID Principles
+- Patrones de Diseño (Gang of Four)
+- Desarrollo de APIs REST y gRPC
+- Microservicios
+- Bases de Datos Relacionales
+- Programación Orientada a Objetos
+- Testing y QA
+- Debugging y Problem Solving
+- IoT y Sistemas Embebidos
 
 ### **Blandas**
-✅ Comunicación efectiva
-✅ Trabajo en equipo
-✅ Aprendizaje continuo
-✅ Adaptabilidad
-✅ Pensamiento crítico
-✅ Gestión del tiempo
-✅ Proactividad
+- Comunicación efectiva
+- Trabajo en equipo
+- Aprendizaje continuo
+- Adaptabilidad
+- Pensamiento crítico
+- Gestión del tiempo
+- Proactividad
 
 ---
 
